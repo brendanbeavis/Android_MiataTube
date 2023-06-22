@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036219440324",
+    "project_id": "eng-throne-309011",
+    "storage_bucket": "eng-throne-309011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036219440324:android:739198914b3f7da95d7d91",
+        "android_client_info": {
+          "package_name": "com.smashedpotato.beavistube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036219440324-ioo4rces4mq48atbb2fui4sqirc5hijd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUovTGpL77p5rHqV_dWGC2zRiRp9QjURU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036219440324-ioo4rces4mq48atbb2fui4sqirc5hijd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
