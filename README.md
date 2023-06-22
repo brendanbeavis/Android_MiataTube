@@ -1,5 +1,6 @@
 
-# MiataTube Android App - This project uses the Channelify template to convert a YouTube channel into an Android native app.
+# MiataTube Android App
+## This project uses the Channelify template to convert a YouTube channel into an Android native app.
 
 
 ## Description
