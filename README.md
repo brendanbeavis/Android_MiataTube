@@ -1,7 +1,5 @@
-<br>
-<br>
 
-## MiataTube Android App - This project uses the Channelify template to convert a YouTube channel into an Android native app.
+# MiataTube Android App - This project uses the Channelify template to convert a YouTube channel into an Android native app.
 
 
 ## Description
@@ -29,7 +27,7 @@ You can convert your YouTube channel into a native Android app using Channelify.
 
 You can use <a href="https://commentpicker.com/youtube-channel-id.php">this site</a> to find your YouTube channel ID.
 
-Note: API key masked for security, must update files \Android_MiataTube\app\google-services.json & \Android_MiataTube\gradle.properties
+> Note: API key masked for security, must update files \Android_MiataTube\app\google-services.json & \Android_MiataTube\gradle.properties
 
 
 ## Channelify Documentation
